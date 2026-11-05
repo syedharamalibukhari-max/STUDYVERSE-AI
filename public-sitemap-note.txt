@@ -1,0 +1,1 @@
+Before launch, replace the placeholder host in robots.txt and generate sitemap.xml from the published routes and content records. Do not publish outline-only or thin pages as indexable educational resources.
